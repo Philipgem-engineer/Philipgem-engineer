@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there! 👋 I'm Philip Gem M. Arradaza
 
-<!--
-**Philipgem-engineer/Philipgem-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Electronics Engineer & Embedded Systems Enthusiast** | Passionate about building real-world solutions through electronics, coding, and innovation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+- **Programming:** C, C++, JAVA, Assembly
+- **Microcontrollers:**  ESP32, Arduino
+- **Tools:** Cadence Allegro, KiCad, Solidworks
+- **Protocols:** Still learning I2C, UART, SPI
+- **Concepts:** PCB Design
+- **Other Interests:** Communication Systems, Microprocessor Design, Electronics Design, Entrepreneurship
+
+---
+
+## 🚀 Projects
+
+- 🎂 **Birthday Greeting Card Project**  
+  Microcontroller-based greeting card with custom PCB design and programmed light/sound sequences. *(Repo Coming Soon)*
+
+- 📚 **Braille Haptic Device (Prototype)**  
+  Assistive technology project integrating PCB design and haptic feedback for the visually impaired.
+
+---
+
+## 📖 What I'm Learning Now
+ 
+- Exploring **Instrumentation Engineering**  
+- Studying **Verilog, FPGA Basics, Embedded Systems, C/C++, and IC design**
+
+---
+
+## 📫 How to Reach Me
+
+- 📩 Email: philipgem.pga@gmail.com  
+- 💼 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/philip-gem-arradaza-b8a299269/))  
+- 🌎 Portfolio Site (Coming Soon!)
+
+---
+
+> "Building Electronic systems with heart, mind, and precision."
+
