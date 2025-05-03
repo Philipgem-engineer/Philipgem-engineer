@@ -19,6 +19,7 @@
 
 - 🎂 **Birthday Greeting Card Project**  
   Microcontroller-based greeting card with custom PCB design and programmed light/sound sequences.
+  (Check Repositories)
 
 - 📚 **Braille Haptic Device (Prototype)**  
   Assistive technology project integrating PCB design and haptic feedback for the visually impaired.
@@ -36,7 +37,7 @@
 
 - 📩 Email: philipgem.pga@gmail.com  
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/philip-gem-arradaza-b8a299269/)  
-- 🌎 Portfolio Site (Coming Soon!)
+- 🌎 Portfolio Site (Check Repo)
 
 ---
 
