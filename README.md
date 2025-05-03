@@ -10,7 +10,7 @@
 - **Microcontrollers:**  ESP32, Arduino
 - **Tools:** Cadence Allegro, KiCad, Solidworks
 - **Protocols:** Still learning I2C, UART, SPI
-- **Concepts:** PCB Design
+- **Concepts:** PCB Design, Electronic & Communication Systems Circuits, Analog & Digital Electronics.
 - **Other Interests:** Communication Systems, Microprocessor Design, Electronics Design, Entrepreneurship
 
 ---
@@ -18,7 +18,7 @@
 ## 🚀 Projects
 
 - 🎂 **Birthday Greeting Card Project**  
-  Microcontroller-based greeting card with custom PCB design and programmed light/sound sequences. *(Repo Coming Soon)*
+  Microcontroller-based greeting card with custom PCB design and programmed light/sound sequences.
 
 - 📚 **Braille Haptic Device (Prototype)**  
   Assistive technology project integrating PCB design and haptic feedback for the visually impaired.
